@@ -1,0 +1,30 @@
+body {
+    background-color:#dac3b6;
+    padding: 100px;
+}
+h3 {
+    color: rgb(114, 67, 10);
+    font-style: oblique ;
+    text-align:center;
+}
+h1 {
+    color: rgb(114, 67, 10);
+    font-style:oblique;
+    text-align: center;
+
+}
+input {
+    text-align: center;
+}
+form  {
+    text-align: center;
+    background-color:#fff;
+    border-color: #000000;
+    border-style: solid;
+    display: inline-block;
+    padding:  60px;
+    
+}
+body {
+    text-align: center;
+}
